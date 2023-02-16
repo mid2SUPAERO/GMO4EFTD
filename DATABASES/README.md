@@ -15,5 +15,5 @@ It is the original database of https://github.com/UW-ERSL/MaTruss/blob/main/data
 **waterKg**: Primary elaboration amount of water required per unit of mass [L/kg]
 
 # DATABASES
-**MaterialDatabase_FUL**: Full Database including all the properties\
+**MaterialDatabase_FULL**: Full Database including all the properties\
 **MaterialDatabase_Mechanical**: Full Database including only the original properties (E, cost, massDensity and tensileStrength)
