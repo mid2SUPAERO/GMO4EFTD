@@ -12,4 +12,8 @@ It is the original database of https://github.com/UW-ERSL/MaTruss/blob/main/data
 **tensileStrength**: Yield strength [Pa]\
 **co2Kg**: Primary elaboration amount of CO2 produced per unit of mass [kg/kg]\
 **energyKg**: Primary elaboration amount of energy required per unit of mass [J/kg]\
-**waterKg**: Primary elaboration amount of water required per unit of mass [L/kg]\
+**waterKg**: Primary elaboration amount of water required per unit of mass [L/kg]
+
+# DATABASES
+**MaterialDatabase_FUL**: Full Database including all the properties
+**MaterialDatabase_Mechanical**: Full Database including only the original properties (E, cost, massDensity and tensileStrength)
