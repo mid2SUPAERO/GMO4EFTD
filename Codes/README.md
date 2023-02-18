@@ -1,15 +1,14 @@
-# CO2 Topology Optimization
+# Basic Information
 
-Links to papers
+The databases are inside the folder "data"
 
-ISAE-SUPAERO
+The figures are saved inside the folder "results"
 
-## Dependencies
+The folder "src" contains some python packages codes such as the material encoder or the Finite Element Solver
 
-PyTorch, scipy, numpy, matplotlib
 
-For the sparse version of PyTorch solve, https://github.com/flaport/torch_sparse_solve
+## VAE_2D_Visual
+It trains the VAE and displays a series of results such as the decoding error, the latent space (2D) considering 2 coordinates or the gradients of the properties.
 
-## Abstract
-
-Abstract
+## VAE_3D_Visual
+It trains the VAE and displays a series of results such as the decoding error, the latent space (3D) considering 3 coordinates or the gradients of the properties.
