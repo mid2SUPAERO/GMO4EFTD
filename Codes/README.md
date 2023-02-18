@@ -2,7 +2,9 @@
 
 The databases are inside the folder "data"
 
-The figures are saved inside the folder "results"
+The figures are saved inside the folders "figures*"
+
+The trained VAE is stored at the folder "results"
 
 The folder "src" contains some python packages codes such as the material encoder or the Finite Element Solver
 
