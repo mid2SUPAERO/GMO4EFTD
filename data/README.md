@@ -1,5 +1,5 @@
 # INFORMATION
-In this folder you will find the material databases in .xlsx format used as input for the VAE.\
+In this folder you will find the material database in .xlsx format used as input.\
 It is the original database of https://github.com/UW-ERSL/MaTruss/blob/main/data/solidworksMaterialDatabase.xlsx but correcting some values, adding more materials and properties.
 
 # PROPERTIES
@@ -16,4 +16,4 @@ It is the original database of https://github.com/UW-ERSL/MaTruss/blob/main/data
 
 # DATABASES
 **MaterialDatabase_FULL**: Full Database including all the properties\
-**MaterialDatabase_Mechanical**: Full Database including only the original properties (youngsModulus, costPerKg, massDensity and tensileStrength)
+
