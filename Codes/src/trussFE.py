@@ -47,7 +47,7 @@ class TrussFE:
     self.force = torch.zeros((self.ndof))
     self.applyForceOnNode(bc['forces'])
     self.fixNodes(bc['fixtures'])
-    self.topFig, self.topAx = plt.subplots()
+    #self.topFig, self.topAx = plt.subplots()
   #--------------------------#
   def fixNodes(self, fixed):
     self.fixedDofs = []

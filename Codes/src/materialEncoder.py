@@ -107,7 +107,8 @@ class MaterialEncoder:
     # Hide the right and top spines
     ax.spines['right'].set_visible(False)
     ax.spines['top'].set_visible(False)
-    plt.savefig(saveFileName)
+    plt.savefig(saveFileName, bbox_inches='tight', dpi = 200)
+
     
     return fig, ax
   
